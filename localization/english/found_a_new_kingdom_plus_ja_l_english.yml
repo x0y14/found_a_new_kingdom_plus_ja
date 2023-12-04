@@ -1,0 +1,10 @@
+﻿l_english:
+  fankp_choose_default_name: "デフォルト"
+  fankp_choose_default_desc: "デフォルト"
+  fankp_choose_default_tooltip: "$fankp_choose_default_desc$"
+
+  fankp_choose_no_set_de_jure_liege_name: "古いタイトルを保護する"
+  fankp_choose_no_set_de_jure_liege_desc: "慣習的領土の変更を行わず、新たなタイトルの作成のみを行う"
+  fankp_choose_no_set_de_jure_liege_tooltip: "$fankp_choose_no_set_de_jure_liege_desc$"
+
+  fankp_CHOOSE_THIS_WAY: "この方法を選ぶ"
